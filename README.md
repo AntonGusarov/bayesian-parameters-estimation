@@ -1,0 +1,2 @@
+# Bayesian_parameter_estimation
+Reproduced published results
